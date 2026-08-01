@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/KarenIngridPergPorfolio/static/css/main.62b64f7d.css",
-    "main.js": "/KarenIngridPergPorfolio/static/js/main.b0ccbe18.js",
+    "main.css": "/KarenIngridPergPorfolio/static/css/main.17473ea0.css",
+    "main.js": "/KarenIngridPergPorfolio/static/js/main.cf01394e.js",
     "static/js/453.43a5fe21.chunk.js": "/KarenIngridPergPorfolio/static/js/453.43a5fe21.chunk.js",
     "index.html": "/KarenIngridPergPorfolio/index.html",
-    "main.62b64f7d.css.map": "/KarenIngridPergPorfolio/static/css/main.62b64f7d.css.map",
-    "main.b0ccbe18.js.map": "/KarenIngridPergPorfolio/static/js/main.b0ccbe18.js.map",
+    "main.17473ea0.css.map": "/KarenIngridPergPorfolio/static/css/main.17473ea0.css.map",
+    "main.cf01394e.js.map": "/KarenIngridPergPorfolio/static/js/main.cf01394e.js.map",
     "453.43a5fe21.chunk.js.map": "/KarenIngridPergPorfolio/static/js/453.43a5fe21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62b64f7d.css",
-    "static/js/main.b0ccbe18.js"
+    "static/css/main.17473ea0.css",
+    "static/js/main.cf01394e.js"
   ]
 }
