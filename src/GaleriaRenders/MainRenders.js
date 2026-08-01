@@ -50,6 +50,8 @@ const MainRenders = () => {
         }
     ];
 
+    console.log("MainRenders renderizado");
+
     return (
         <div className="main-renders">
 
