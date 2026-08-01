@@ -18,13 +18,6 @@ function App() {
     <div className="App">
       <Textos />
       <MainRenders />
-      {/* <HashRouter>
-       
-        <Routes>
-          <Route path='/' element={<MainRenders />} />
-        </Routes>
-      </HashRouter> */}
-      <ToastContainer />
 
     </div>
   )
