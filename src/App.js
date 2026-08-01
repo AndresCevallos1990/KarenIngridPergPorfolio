@@ -13,15 +13,17 @@ import Textos from './GaleriaRenders/Textos';
 
 
 function App() {
-  
+
   return (
     <div className="App">
-      <HashRouter>
       <Textos />
+      <MainRenders />
+      {/* <HashRouter>
+       
         <Routes>
           <Route path='/' element={<MainRenders />} />
         </Routes>
-      </HashRouter>
+      </HashRouter> */}
       <ToastContainer />
 
     </div>
